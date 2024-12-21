@@ -6,7 +6,7 @@
 
 <div style="display: flex; justify-content: space-around;">
     <figure style="margin: 0; text-align: center;">
-        <img src="./example_image/cactus.png" alt="Aquarium" width="15%" height="15%" />
+        <img src="./example_image/Cactus.png" alt="Cactus" width="15%" height="15%" />
         <figcaption>cactus</figcaption>
     </figure>
     <figure style="margin: 0; text-align: center;">
@@ -34,7 +34,7 @@ dog Bed Leaf Stadium
 
 <table>
     <tr>
-         <td ><center><img src="./example_image/dog.png"  width="50%" height="50%" />dog</center></td>
+         <td ><center><img src="./example_image/Dog.png"  width="50%" height="50%" />Dog</center></td>
          <td ><center><img src="./example_image/Bed.png"/>Bed</center></td>
          <td ><center><img src="./example_image/Leaf.png"/>Leaf</center></td>
          <td ><center><img src="./example_image/Stadium.png"/>Stadium</center></td>
