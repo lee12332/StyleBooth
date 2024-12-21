@@ -1,14 +1,13 @@
 # 第四届计图人工智能挑战赛
 
-# 赛道二：风格迁移图片生成-Stylebooth
+# 赛道二-三等奖：风格迁移图片生成-StyleBooth
 
 |风格参考图 | 生成图1 | 生成图2 | 生成图3|
 |:--------: | :-----:|:-----:|:-----:|
 <img src="./example_image/Cactus.png"/> | <img src="./example_image/Boat.png"/>|<img src="./example_image/Grass.png"/>|<img src="./example_image/Park.png"/>
 Cactus|Boat|Grass|Park
 <img src="./example_image/Dog.png">|<img src="./example_image/Bed.png"/>|<img src="./example_image/Leaf.png"/>|<img src="./example_image/Stadium.png"/>
-Dog|Bed|Leaf|Stadium
-​                  
+Dog|Bed|Leaf|Stadium          
 ## 简介
 
 本项目包含了第四届计图人工智能挑战赛 - 风格迁移图片生成（B榜）的代码实现。
