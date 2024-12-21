@@ -7,6 +7,7 @@
 |风格参考图 | 生成图1 | 生成图2 | 生成图3|
 |:--------: | :-----:|:-----:|:-----:|
 <img src="./example_image/Cactus.png"/> | <img src="./example_image/Boat.png"/>|<img src="./example_image/Grass.png"/>|<img src="./example_image/Park.png"/>
+Cactus|Boat|Grass|Park
 
 <table>
     <tr>
