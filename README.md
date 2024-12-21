@@ -43,10 +43,10 @@ dog Bed Leaf Stadium
 
 
 <figure class="fourth">
-        <center><img src="./example_image/dog.png" alt="dragon">dog </center>
-        <center><img src="./example_image/Bed.png" alt="Eagle1">Bed</center>
-        <center><img src="./example_image/Leaf.png" alt="Eagle">Leaf</center>
-        <center><img src="./example_image/Stadium.png" alt="Eagle">Stadium</center>
+    <img src="./example_image/dog.png" alt="dragon"  width="20%" height="20%" />
+    <img src="./example_image/Bed.png" alt="Eagle1"  width="20%" height="20%" />
+    <img src="./example_image/Leaf.png" alt="Eagle"  width="20%" height="20%" />
+    <img src="./example_image/Stadium.png" alt="Eagle"  width="20%" height="20%" />
 </figure>
 ​                  
 ## 简介
