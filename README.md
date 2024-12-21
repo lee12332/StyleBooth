@@ -23,14 +23,13 @@
     </figure>
 </div>
 
-&ensp;
-
-<img src="./example_image/dog.png" alt="dog"  width="20%" height="20%" />
-&ensp;<img src="./example_image/Bed.png" alt="Eagle1"  width="20%" height="20%" />
-<img src="./example_image/Leaf.png" alt="Eagle"  width="20%" height="20%" />
-<img src="./example_image/Stadium.png" alt="Eagle"  width="20%" height="20%" />
-
 <table>
+    <tr>
+         <td ><center><img src="./example_image/Cactus.png"/>Cactus</center></td>
+         <td ><center><img src="./example_image/Boat.png"/>Boat</center></td>
+         <td ><center><img src="./example_image/Grass.png"/>Grass</center></td>
+         <td ><center><img src="./example_image/Park.png"/>Park</center></td>
+    </tr>
     <tr>
          <td ><center><img src="./example_image/Dog.png"/>Dog</center></td>
          <td ><center><img src="./example_image/Bed.png"/>Bed</center></td>
