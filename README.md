@@ -50,7 +50,7 @@ pip install git+https://github.com/JittorRepos/jtorch
 pip install git+https://github.com/JittorRepos/diffusers_jittor
 pip install git+https://github.com/JittorRepos/transformers_jittor
 ```
-## 训练
+## 训练(或用我们给出的ckpt以跳过训练)
 
 #### 0.使用的基准stable-diffusion模型
 
