@@ -8,6 +8,8 @@
 |:--------: | :-----:|:-----:|:-----:|
 <img src="./example_image/Cactus.png"/> | <img src="./example_image/Boat.png"/>|<img src="./example_image/Grass.png"/>|<img src="./example_image/Park.png"/>
 Cactus|Boat|Grass|Park
+<img src="./example_image/Dog.png">|<img src="./example_image/Bed.png"/>|<img src="./example_image/Leaf.png"/>|<img src="./example_image/Stadium.png"/>
+Dog|Bed|Leaf|Stadium
 
 <table>
     <tr>
@@ -29,10 +31,10 @@ Cactus|Boat|Grass|Park
          <td ><center>Park</center></td>
     </tr>
     <tr>
-         <td ><center><img src="./example_image/Dog.png"width=150 height=150/></center></td>
-         <td ><center><img src="./example_image/Bed.png"width=150 height=150/></center></td>
-         <td ><center><img src="./example_image/Leaf.png"width=150 height=150/></center></td>
-         <td ><center><img src="./example_image/Stadium.png"width=150 height=150/></center></td>
+         <td ><center><img src="./example_image/Dog.png"/></center></td>
+         <td ><center><img src="./example_image/Bed.png"/></center></td>
+         <td ><center><img src="./example_image/Leaf.png"/></center></td>
+         <td ><center><img src="./example_image/Stadium.png"/></center></td>
     </tr>
     <tr>
          <td ><center>Dog</center></td>
