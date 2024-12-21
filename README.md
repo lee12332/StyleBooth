@@ -79,8 +79,24 @@ python test.py
 ```
 
 ## 致谢
+```
+@inproceedings{ruiz2023dreambooth,
+  title={Dreambooth: Fine tuning text-to-image diffusion models for subject-driven generation},
+  author={Ruiz, Nataniel and Li, Yuanzhen and Jampani, Varun and Pritch, Yael and Rubinstein, Michael and Aberman, Kfir},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={22500--22510},
+  year={2023}
+}
 
-
+@inproceedings{jain2023zero,
+  title={Zero-shot racially balanced dataset generation using an existing biased stylegan2},
+  author={Jain, Anubhav and Memon, Nasir and Togelius, Julian},
+  booktitle={2023 IEEE International Joint Conference on Biometrics (IJCB)},
+  pages={1--18},
+  year={2023},
+  organization={IEEE}
+}
+```
 
 ## 联系方式
 
