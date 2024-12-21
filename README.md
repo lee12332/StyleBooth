@@ -1,4 +1,4 @@
-| 第四届计图人工智能挑战赛
+# 第四届计图人工智能挑战赛
 
 # 赛道二：风格迁移图片生成-Stylebooth
 
@@ -6,19 +6,19 @@
 
 <div style="display: flex; justify-content: space-around;">
     <figure style="margin: 0; text-align: center;">
-        <img src="./example_image/cactus.png" alt="Aquarium" width="20%" height="20%" />
+        <img src="./example_image/cactus.png" alt="Aquarium" width="15%" height="15%" />
         <figcaption>cactus</figcaption>
     </figure>
     <figure style="margin: 0; text-align: center;">
-        <img src="./example_image/Boat.png" alt="Aquarium"  width="20%" height="20%" />
+        <img src="./example_image/Boat.png" alt="Aquarium"  width="15%" height="15%" />
         <figcaption>Boat</figcaption>
     </figure>
     <figure style="margin: 0; text-align: center;">
-        <img src="./example_image/Grass.png" alt="Aquarium"  width="20%" height="20%" />
+        <img src="./example_image/Grass.png" alt="Aquarium"  width="15%" height="15%" />
         <figcaption>Grass</figcaption>
     </figure>
     <figure style="margin: 0; text-align: center;">
-        <img src="./example_image/Park.png" alt="Aquarium"  width="20%" height="20%" />
+        <img src="./example_image/Park.png" alt="Aquarium"  width="15%" height="15%" />
         <figcaption>Park</figcaption>
     </figure>
 </div>
@@ -37,7 +37,6 @@ dog Bed Leaf Stadium
 本项目包含了第四届计图人工智能挑战赛 - 风格迁移图片生成（B榜）的代码实现。本项目对参考的28种风格图片进行学习，在每种风格仅有3张参考图的条件下，设计了一套先生成，再调整的框架，其中调整模块是无训练的。结果表明，对风格中特征的学习和主体的保留中取得了很好的效果。
 
 ## 链接
-[https://github.com/lee12332/DreamboothStyleInjection]
 (https://github.com/lee12332/StyleBooth)
 
 
