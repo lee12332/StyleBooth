@@ -1,10 +1,8 @@
 | 第四届计图人工智能挑战赛
 
-# 赛道二：风格迁移图片生成，Stylebooth
+# 赛道二：风格迁移图片生成-Stylebooth
 
 风格参考图 生成图1 生成图2 生成图3
-
-
 
 <div style="display: flex; justify-content: space-around;">
     <figure style="margin: 0; text-align: center;">
@@ -27,8 +25,6 @@
 
 &ensp;
 
-
-cactus Boat Grass Park
 <img src="./example_image/dog.png" alt="dragon"  width="20%" height="20%" />
 &ensp;<img src="./example_image/Bed.png" alt="Eagle1"  width="20%" height="20%" />
 <img src="./example_image/Leaf.png" alt="Eagle"  width="20%" height="20%" />
