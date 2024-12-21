@@ -34,7 +34,7 @@ dog Bed Leaf Stadium
 
 <table>
     <tr>
-        <img src="./example_image/dog.png" alt="dragon"  width="20%" height="20%" />
+        <img src="./example_image/dog.png" alt="dragon"  width="10%" height="10%" />
         <img src="./example_image/Bed.png" alt="Eagle1"  width="20%" height="20%" />
         <img src="./example_image/Leaf.png" alt="Eagle"  width="20%" height="20%" />
         <img src="./example_image/Stadium.png" alt="Eagle"  width="20%" height="20%" />
