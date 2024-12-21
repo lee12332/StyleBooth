@@ -34,10 +34,10 @@ dog Bed Leaf Stadium
 
 <table>
     <tr>
-         <td ><center><img src="./example_image/dog.png" width="20%" height="20%" />dog</center></td>
-         <td ><center><img src="./example_image/dog.png" width="20%" height="20%" />dog</center></td>
-         <td ><center><img src="./example_image/dog.png" width="20%" height="20%" />dog</center></td>
-         <td ><center><img src="./example_image/dog.png" width="20%" height="20%" />dog</center></td>
+         <td ><center><img src="./example_image/dog.png"/>dog</center></td>
+         <td ><center><img src="./example_image/dog.png"/>dog</center></td>
+         <td ><center><img src="./example_image/dog.png"/>dog</center></td>
+         <td ><center><img src="./example_image/dog.png"/>dog</center></td>
     </tr>
 </table>
 ​                  
