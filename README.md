@@ -88,13 +88,12 @@ python test.py
   year={2023}
 }
 
-@inproceedings{jain2023zero,
-  title={Zero-shot racially balanced dataset generation using an existing biased stylegan2},
-  author={Jain, Anubhav and Memon, Nasir and Togelius, Julian},
-  booktitle={2023 IEEE International Joint Conference on Biometrics (IJCB)},
-  pages={1--18},
-  year={2023},
-  organization={IEEE}
+@inproceedings{chung2024style,
+  title={Style injection in diffusion: A training-free approach for adapting large-scale diffusion models for style transfer},
+  author={Chung, Jiwoo and Hyun, Sangeek and Heo, Jae-Pil},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={8795--8805},
+  year={2024}
 }
 ```
 
