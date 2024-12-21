@@ -53,17 +53,17 @@ pip install git+https://github.com/JittorRepos/transformers_jittor
 ```
 ## 训练
 
-#### 使用的基准stable-diffusion模型
+#### 0.使用的基准stable-diffusion模型
 
 使用的预训练模型为[stabilityai/stable-diffusion-2-1 at main (huggingface.co)](https://huggingface.co/stabilityai/stable-diffusion-2-1/tree/main)
 
-#### 训练的风格集合
+#### 1.训练的风格集合
 
 参考风格数据（Style_B）见https://cloud.tsinghua.edu.cn/f/4caf92b9ac6444659597/?dl=1
 
 下载解压到目录 ./B 内.
 
-#### 开始权重训练！
+#### 2.开始权重训练！
 
 权重的训练可以运行以下命令：
 ```
