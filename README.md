@@ -31,10 +31,10 @@
          <td ><center><img src="./example_image/Park.png"/>Park</center></td>
     </tr>
     <tr>
-         <td ><center><img src="./example_image/Dog.png"width=100 height=100/>Dog</center></td>
-         <td ><center><img src="./example_image/Bed.png"width=100 height=100/>Bed</center></td>
-         <td ><center><img src="./example_image/Leaf.png"width=100 height=100/>Leaf</center></td>
-         <td ><center><img src="./example_image/Stadium.png"width=100 height=100/>Stadium</center></td>
+         <td ><center><img src="./example_image/Dog.png"align="middle" width=100 height=100/>Dog</center></td>
+         <td ><center><img src="./example_image/Bed.png"align="middle" width=100 height=100/>Bed</center></td>
+         <td ><center><img src="./example_image/Leaf.png"align="middle" width=100 height=100/>Leaf</center></td>
+         <td ><center><img src="./example_image/Stadium.png"align="middle" width=100 height=100/>Stadium</center></td>
     </tr>
 </table>
 ​                  
