@@ -22,10 +22,10 @@
          <td ><center>Park</center></td>
     </tr>
     <tr>
-         <td ><center><img src="./example_image/Dog.png"width=100 height=100/></center></td>
-         <td ><center><img src="./example_image/Bed.png"width=100 height=100/></center></td>
-         <td ><center><img src="./example_image/Leaf.png"width=100 height=100/></center></td>
-         <td ><center><img src="./example_image/Stadium.png"width=100 height=100/></center></td>
+         <td ><center><img src="./example_image/Dog.png"width=150 height=150/></center></td>
+         <td ><center><img src="./example_image/Bed.png"width=150 height=150/></center></td>
+         <td ><center><img src="./example_image/Leaf.png"width=150 height=150/></center></td>
+         <td ><center><img src="./example_image/Stadium.png"width=150 height=150/></center></td>
     </tr>
     <tr>
          <td ><center>Dog</center></td>
