@@ -2,28 +2,13 @@
 
 # 赛道二：风格迁移图片生成-Stylebooth
 
-风格参考图 生成图1 生成图2 生成图3
-
-<div style="display: flex; justify-content: space-around;">
-    <figure style="margin: 0; text-align: center;">
-        <img src="./example_image/Cactus.png" alt="Cactus" width="15%" height="15%" />
-        <figcaption>cactus</figcaption>
-    </figure>
-    <figure style="margin: 0; text-align: center;">
-        <img src="./example_image/Boat.png" alt="Aquarium"  width="15%" height="15%" />
-        <figcaption>Boat</figcaption>
-    </figure>
-    <figure style="margin: 0; text-align: center;">
-        <img src="./example_image/Grass.png" alt="Aquarium"  width="15%" height="15%" />
-        <figcaption>Grass</figcaption>
-    </figure>
-    <figure style="margin: 0; text-align: center;">
-        <img src="./example_image/Park.png" alt="Aquarium"  width="15%" height="15%" />
-        <figcaption>Park</figcaption>
-    </figure>
-</div>
-
 <table>
+    <tr>
+         <td ><center>风格参考图</center></td>
+         <td ><center>生成图1</center></td>
+         <td ><center>生成图2</center></td>
+         <td ><center>生成图3</center></td>
+    </tr>
     <tr>
          <td ><center><img src="./example_image/Cactus.png"/>Cactus</center></td>
          <td ><center><img src="./example_image/Boat.png"/>Boat</center></td>
