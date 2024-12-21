@@ -34,10 +34,10 @@ dog Bed Leaf Stadium
 
 <table>
     <tr>
-        <td ><center><img src="./example_image/dog.png" alt="dragon"  width="20%" height="20%">dog </center></td>
-        <td ><center><img src="./example_image/Bed.png" alt="Eagle1"  width="20%" height="20%">Bed</center></td>
-        <td><center><img src="./example_image/Leaf.png" alt="Eagle"  width="20%" height="20%" >Leaf</center></td>
-        <td ><center><img src="./example_image/Stadium.png" alt="Eagle"  width="20%" height="20%">Stadium</center> </td>
+        <td ><center><img src="./example_image/dog.png" alt="dragon">dog </center></td>
+        <td ><center><img src="./example_image/Bed.png" alt="Eagle1">Bed</center></td>
+        <td><center><img src="./example_image/Leaf.png" alt="Eagle">Leaf</center></td>
+        <td ><center><img src="./example_image/Stadium.png" alt="Eagle">Stadium</center> </td>
     </tr>
 </table>
 
