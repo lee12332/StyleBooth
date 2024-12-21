@@ -34,7 +34,7 @@ dog Bed Leaf Stadium
 
 <table>
     <tr>
-         <td ><center><img src="./example_image/dog.png"/>dog</center></td>
+         <td ><center><img src="./example_image/dog.png"  width="50%" height="50%" />dog</center></td>
          <td ><center><img src="./example_image/Bed.png"/>dog</center></td>
          <td ><center><img src="./example_image/Leaf.png"/>dog</center></td>
          <td ><center><img src="./example_image/Stadium.png"/>dog</center></td>
