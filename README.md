@@ -30,7 +30,7 @@
          <td ><center><img src="./example_image/Grass.png"/>Grass</center></td>
          <td ><center><img src="./example_image/Park.png"/>Park</center></td>
     </tr>
-    <tr>
+    <tr style="border: none;">
          <td ><center><img src="./example_image/Dog.png"align="middle" width=100 height=100/>Dog</center></td>
          <td ><center><img src="./example_image/Bed.png"align="middle" width=100 height=100/>Bed</center></td>
          <td ><center><img src="./example_image/Leaf.png"align="middle" width=100 height=100/>Leaf</center></td>
