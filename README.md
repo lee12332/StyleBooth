@@ -4,9 +4,9 @@
 
 |风格参考图 | 生成图1 | 生成图2 | 生成图3|
 |:--------: | :-----:|:-----:|:-----:|
-<img src="./example_image/Cactus.png"width="120" height="120"/> | <img src="./example_image/Boat.png"width="120" height="120"/>|<img src="./example_image/Grass.png"width="120" height="120"/>|<img src="./example_image/Park.png"width="120" height="120"/>
+<img src="./example_image/Cactus.png" width="120" height="120"/> | <img src="./example_image/Boat.png" width="120" height="120"/>|<img src="./example_image/Grass.png" width="120" height="120"/>|<img src="./example_image/Park.png" width="120" height="120"/>
 Cactus|Boat|Grass|Park
-<img src="./example_image/Dog.png"width="120" height="120">|<img src="./example_image/Bed.png"width="120" height="120"/>|<img src="./example_image/Leaf.png"width="120" height="120"/>|<img src="./example_image/Stadium.png"width="120" height="120"/>
+<img src="./example_image/Dog.png" width="120" height="120">|<img src="./example_image/Bed.png" width="120" height="120"/>|<img src="./example_image/Leaf.png" width="120" height="120"/>|<img src="./example_image/Stadium.png" width="120" height="120"/>
 Dog|Bed|Leaf|Stadium          
 ## 简介
 
